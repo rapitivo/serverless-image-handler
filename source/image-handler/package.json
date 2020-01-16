@@ -15,7 +15,7 @@
     "nyc": "^14.0.0"
   },
   "devDependencies": {
-    "aws-sdk": "^2.437.0",
+    "aws-sdk": "^2.545.0",
     "aws-sdk-mock": "^4.4.0"
   },
   "scripts": {
